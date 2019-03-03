@@ -1,0 +1,24 @@
+# Title: myPiholeBlacklist Test - urls auf Bewährung
+# Last Modified: 03. März 2019
+# Version: 03-03-2019-a
+# add: Line 9
+# Licence: Public Domain
+# URL: https://raw.githubusercontent.com/kreisklasse/myPiholeBlacklist/master/kkblacklisttest.txt
+
+0.0.0.0 time.google.com
+0.0.0.0 remote-data.urbanairship.com
+
+# blokada.org app
+0.0.0.0 journal.blokada.org
+
+0.0.0.0 cmrelay.avm.de
+0.0.0.0 spots.fuckandcdn.com
+0.0.0.0 sunstatic.fuckandcdn.com
+0.0.0.0 sunstatic1.fuckandcdn.com
+0.0.0.0 sunstatic2.fuckandcdn.com
+0.0.0.0 sunstatic3.fuckandcdn.com
+0.0.0.0 click.jasmin.com
+0.0.0.0 cdn.mn1nm.com
+0.0.0.0 cool.sunporno.com
+0.0.0.0 st.sunporno.com
+0.0.0.0 www.sunporno.com
