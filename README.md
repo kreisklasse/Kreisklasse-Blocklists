@@ -6,20 +6,20 @@ My personal Blacklists.
 Beside my Kreisklasse-blocklists,  
 i use also the following blacklists on my pihole:
 
+https://github.com/AdroitAdorKhan/Energized :  
 https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/hosts  
 update frequency: every friday
 
+https://github.com/anudeepND/blacklist :  
 https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt  
 update frequency: unknown
 
-https://raw.githubusercontent.com/imkarthikk/pihole-facebook/master/pihole-facebook.txt  
-update frequency: acc. to file, daily
 
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
-
-this gives me a number of blocked urls of about 480.000
+https://github.com/notracking/hosts-blocklists :  
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt  
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt  
+  
+this gives me about 500.000 blocked urls
 
 
 i also tried this one,  
