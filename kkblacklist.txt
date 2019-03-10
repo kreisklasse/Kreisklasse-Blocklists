@@ -1,8 +1,8 @@
 # Title: myPiholeBlacklist
-# Last Modified: 2. Februar 2019
-# Version: 02-02-2019-a
+# Last Modified: 10. März 2019
+# Version: 10-03-2019-a
 # Licence: Public Domain
-# URL: https://raw.githubusercontent.com/kreisklasse/myPiholeBlacklist/master/kkblacklist.txt
+# URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklist.txt
 
 0.0.0.0 statistics.11880.com
 0.0.0.0 aatkit.com
