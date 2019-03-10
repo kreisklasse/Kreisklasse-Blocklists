@@ -1,10 +1,12 @@
 # Title: myPiholeBlacklist Test - urls auf Bewährung
-# Last Modified: 03. März 2019
-# Version: 03-03-2019-a
-# add: Line 9
+# Last Modified: 10. März 2019
+# Version: 10-03-2019-a
+# add: Line 8-9
 # Licence: Public Domain
-# URL: https://raw.githubusercontent.com/kreisklasse/myPiholeBlacklist/master/kkblacklisttest.txt
+# URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklisttest.txt
 
+0.0.0.0 de.ioam.de
+0.0.0.0 de.sitestat.com
 0.0.0.0 time.google.com
 0.0.0.0 remote-data.urbanairship.com
 
