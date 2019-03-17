@@ -33,8 +33,8 @@ from https://github.com/crazy-max/WindowsSpyBlocker the WindowsSpyBlocker list:
 https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/spy.txt  
 
 https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/hosts.txt  
-here paused the Energized Basic-list  
-this gives me 1.2 Million blocked URLs
+(paused the Energized Basic-list)  
+this gives me now 1.2 Million blocked URLs
 
 
 
