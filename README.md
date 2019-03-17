@@ -25,5 +25,16 @@ this gives me about 500.000 blocked urls
 i also tried this one,  
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CombinedBlacklists/CombinedBlackLists.txt  
 update frequency: acc. to file, daily  
-but it blocks about 2.5 Million urls. For me it blocks to much. But you can try it.
+but it blocks about 2.5 Million URLs. For me it blocks to much. But you can try it.
+
+##Testing
+now added the following lists to my Test-piHole:
+from https://github.com/crazy-max/WindowsSpyBlocker the WindowsSpyBlocker list:
+https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/spy.txt
+
+https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/hosts.txt
+here paused the Energized Basic-list
+this gives me 1.2 Million blocked URLs
+
+
 
