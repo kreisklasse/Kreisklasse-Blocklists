@@ -1,6 +1,6 @@
 # PiHole Blacklist
 
-My personal Blacklists.
+### Blocklists i use presently:
 
 
 Beside my Kreisklasse-blocklists,  
@@ -13,19 +13,20 @@ update frequency: every friday
 https://github.com/anudeepND/blacklist :  
 https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt  
 update frequency: unknown
-
-
-https://github.com/notracking/hosts-blocklists :  
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt  
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt  
-  
+ 
 this gives me about 500.000 blocked urls
 
 
+
+### Not used anymore:
 i also tried this one,  
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CombinedBlacklists/CombinedBlackLists.txt  
 update frequency: acc. to file, daily  
 but it blocks about 2.5 Million URLs. For me it blocks to much. But you can try it.
+
+https://github.com/notracking/hosts-blocklists :  
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt  
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt  
 
 ##Testing
 now added the following lists to my Test-piHole:  
