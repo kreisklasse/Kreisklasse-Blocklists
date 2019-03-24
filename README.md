@@ -8,7 +8,7 @@ i use also the following blacklists on my pihole:
 
 https://github.com/AdroitAdorKhan/Energized :  
 https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/hosts  
-update frequency: every friday
+update frequency: bi-weekly on fridays
 
 https://github.com/anudeepND/blacklist :  
 https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt  
