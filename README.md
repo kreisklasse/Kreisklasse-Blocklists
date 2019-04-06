@@ -17,6 +17,13 @@ update frequency: unknown
 this gives me about 500.000 blocked urls
 
 
+### Testing
+now added the following lists to my Test-piHole:  
+from https://github.com/crazy-max/WindowsSpyBlocker the WindowsSpyBlocker list:  
+https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/spy.txt  
+
+
+
 
 ### Not used anymore:
 i also tried this one,  
@@ -26,16 +33,9 @@ but it blocks about 2.5 Million URLs. For me it blocks to much. But you can try 
 
 https://github.com/notracking/hosts-blocklists :  
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt  
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt  
-
-##Testing
-now added the following lists to my Test-piHole:  
-from https://github.com/crazy-max/WindowsSpyBlocker the WindowsSpyBlocker list:  
-https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/spy.txt  
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt 
 
 https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/hosts.txt  
-(paused the Energized Basic-list)  
-this gives me now 1.2 Million blocked URLs
-
+this gave me now 1.2 Million blocked URLs
 
 
