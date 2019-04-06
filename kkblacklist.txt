@@ -1,6 +1,6 @@
 # Title: myPiholeBlacklist
-# Last Modified: 16. März 2019
-# Version: 16-03-2019-a
+# Last Modified: 06. April 2019
+# Version: 06-04-2019-a
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklist.txt
 
@@ -24,6 +24,7 @@
 0.0.0.0 apptimize.com
 0.0.0.0 hmma.baidu.com
 0.0.0.0 counter.blitzortung.org
+0.0.0.0 cdn.branch.io
 0.0.0.0 amp-analytics.chip.de
 0.0.0.0 clicktale.net
 0.0.0.0 ws009.coinhive.com
@@ -96,6 +97,8 @@
 0.0.0.0 hbbtv-track.redbutton.de
 0.0.0.0 hbbtv-trgt.redbutton.de
 0.0.0.0 redbutton-adproxy-lb-prod.redbutton.de
+0.0.0.0 research.de.com
+0.0.0.0 s79.research.de.com
 0.0.0.0 salemove.com
 0.0.0.0 auth.samsungosp.com
 0.0.0.0 cdn.samsungcloudsolution.com
@@ -106,6 +109,7 @@
 0.0.0.0 lcprd2.samsungcloudsolution.net
 0.0.0.0 log-config.samsungacr.com
 0.0.0.0 log-ingestion-eu.samsungacr.com
+0.0.0.0 www.samsungotn.net
 0.0.0.0 sessioncam.com
 0.0.0.0 de.sitestat.com
 0.0.0.0 stats.hbbtv.smartclip.net
@@ -131,6 +135,7 @@
 0.0.0.0 vgwort.de
 0.0.0.0 ssl-offloader.vgwzaehlungen.de
 0.0.0.0 vgwzaehlungen.de
+0.0.0.0 stats.webandmore.de
 0.0.0.0 wbtrk.net
 0.0.0.0 cdn.wbtrk.net
 0.0.0.0 geid.wbtrk.net
