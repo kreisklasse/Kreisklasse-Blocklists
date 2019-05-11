@@ -1,6 +1,6 @@
 # Title: myPiholeBlacklist
 # Last Modified: 11. Mai 2019
-# Version: 11-05-2019-a
+# Version: 11-05-2019-b
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklist.txt
 
@@ -116,6 +116,7 @@
 0.0.0.0 log-config.samsungacr.com
 0.0.0.0 log-ingestion-eu.samsungacr.com
 0.0.0.0 www.samsungotn.net
+0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sessioncam.com
 0.0.0.0 de.sitestat.com
 0.0.0.0 stats.hbbtv.smartclip.net
