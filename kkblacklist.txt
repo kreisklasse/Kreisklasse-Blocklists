@@ -1,6 +1,6 @@
 # Title: myPiholeBlacklist
-# Last Modified: 06. April 2019
-# Version: 06-04-2019-a
+# Last Modified: 11. Mai 2019
+# Version: 11-05-2019-a
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklist.txt
 
@@ -15,6 +15,8 @@
 0.0.0.0 graph.accountkit.com
 0.0.0.0 app.adjust.com
 0.0.0.0 native.adscale.de
+0.0.0.0 adsrvr.org
+0.0.0.0 match.adsrvr.org
 0.0.0.0 zc.adswizz.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 redbutton-adproxy-prod-lb-10634916.eu-west-1.elb.amazonaws.com
@@ -23,6 +25,8 @@
 0.0.0.0 api.appodealx.com
 0.0.0.0 apptimize.com
 0.0.0.0 hmma.baidu.com
+0.0.0.0 betrad.com
+0.0.0.0 l.betrad.com
 0.0.0.0 counter.blitzortung.org
 0.0.0.0 cdn.branch.io
 0.0.0.0 amp-analytics.chip.de
@@ -76,6 +80,8 @@
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 s240.mxcdn.net
 0.0.0.0 c.nativendo.de
+0.0.0.0 netrk.net
+0.0.0.0 1001.netrk.net
 0.0.0.0 nuggad.net
 0.0.0.0 ip-s.nuggad.net
 0.0.0.0 71iapp-cp.nuggad.net
@@ -123,6 +129,7 @@
 0.0.0.0 cdas-01.trafficfabrik.com
 0.0.0.0 go2.traffic-love.net
 0.0.0.0 hbbtv.tvtelemetrie.de
+0.0.0.0 use.typekit.net
 0.0.0.0 daisy.ubuntu.com
 0.0.0.0 device-api.urbanairship.com
 0.0.0.0 remote-data.urbanairship.com
