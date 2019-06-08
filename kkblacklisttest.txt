@@ -1,8 +1,10 @@
 # Title: myPiholeBlacklist Test - urls auf Bewährung
 # Last Modified: 08. Juni 2019
-# Version: 08-06-2019-a
+# Version: 08-06-2019-b
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklisttest.txt
+
+0.0.0.0 apps-pub.samsungcloudcdn.com
 
 0.0.0.0 getpocket.cdn.mozilla.net
 0.0.0.0 detectportal.firefox.com
