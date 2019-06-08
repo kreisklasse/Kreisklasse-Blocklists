@@ -1,6 +1,6 @@
 # Title: myPiholeBlacklist
-# Last Modified: 11. Mai 2019
-# Version: 11-05-2019-b
+# Last Modified: 06. Juni 2019
+# Version: 08-06-2019-a
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklist.txt
 
@@ -19,6 +19,7 @@
 0.0.0.0 match.adsrvr.org
 0.0.0.0 zc.adswizz.com
 0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 redbutton-adproxy-prod-lb-10634916.eu-west-1.elb.amazonaws.com
 0.0.0.0 api.amplitude.com
 0.0.0.0 app-measurement.com
@@ -40,6 +41,7 @@
 0.0.0.0 account.cyanogenmod.org
 0.0.0.0 stats.cyanogenmod.org
 0.0.0.0 decibelinsight.net
+0.0.0.0 static.doubleclick.net
 0.0.0.0 tracking.emsmobile.de
 0.0.0.0 ads.exosrv.com
 0.0.0.0 static.exosrv.com
@@ -68,6 +70,7 @@
 0.0.0.0 likemore-go.imgsmail.ru
 0.0.0.0 bronline.ivwbox.de
 0.0.0.0 liftoff.io
+0.0.0.0 webhook.logentries.com
 0.0.0.0 logrocket.com
 0.0.0.0 tracking.lqm.io
 0.0.0.0 matchinguu.com
