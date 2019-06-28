@@ -5,8 +5,6 @@
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklisttest.txt
 
 0.0.0.0 counter.lightningmaps.org
-0.0.0.0 count.spiegel.com
-0.0.0.0 apps-pub.samsungcloudcdn.com
 
 0.0.0.0 getpocket.cdn.mozilla.net
 0.0.0.0 detectportal.firefox.com
