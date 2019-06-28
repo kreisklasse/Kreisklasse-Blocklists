@@ -41,6 +41,7 @@
 0.0.0.0 account.cyanogenmod.org
 0.0.0.0 stats.cyanogenmod.org
 0.0.0.0 decibelinsight.net
+0.0.0.0 ad.doubleclick.net
 0.0.0.0 static.doubleclick.net
 0.0.0.0 tracking.emsmobile.de
 0.0.0.0 ads.exosrv.com
