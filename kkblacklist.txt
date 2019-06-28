@@ -111,6 +111,7 @@
 0.0.0.0 s79.research.de.com
 0.0.0.0 salemove.com
 0.0.0.0 auth.samsungosp.com
+0.0.0.0 apps-pub.samsungcloudcdn.com
 0.0.0.0 cdn.samsungcloudsolution.com
 0.0.0.0 fkp.samsungcloudsolution.com
 0.0.0.0 notice.samsungcloudsolution.com
@@ -126,6 +127,7 @@
 0.0.0.0 stats.hbbtv.smartclip.net
 0.0.0.0 smartlook.com
 0.0.0.0 msmetrics.ws.sonos.com
+0.0.0.0 count.spiegel.com
 0.0.0.0 infoevent.startappservice.com
 0.0.0.0 technical-service.net
 0.0.0.0 mobile.theadex.com
