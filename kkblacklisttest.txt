@@ -4,6 +4,8 @@
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklisttest.txt
 
+0.0.0.0 adwired.ch
+0.0.0.0 aerotelegraph.adwired.ch
 0.0.0.0 counter.lightningmaps.org
 
 0.0.0.0 getpocket.cdn.mozilla.net
