@@ -1,6 +1,6 @@
 # Title: myPiholeBlacklist Test - urls auf Bewährung
-# Last Modified: 10. Juni 2019
-# Version: 10-06-2019-a
+# Last Modified: 30. Juni 2019
+# Version: 30-06-2019-a
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklisttest.txt
 
