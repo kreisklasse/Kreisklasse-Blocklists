@@ -11,8 +11,8 @@
 0.0.0.0 getpocket.cdn.mozilla.net
 0.0.0.0 detectportal.firefox.com
 
-0.0.0.0 time.android.com
-0.0.0.0 time.google.com
-0.0.0.0 time.windows.com
+# 0.0.0.0 time.android.com
+# 0.0.0.0 time.google.com
+# 0.0.0.0 time.windows.com
 
 0.0.0.0 cmrelay.avm.de
