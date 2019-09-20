@@ -1,6 +1,6 @@
 # Title: myPiholeBlacklist
-# Last Modified: 14 Jul 2019
-# Version: 14-07-2019-a
+# Last Modified: 20 Sep 2019
+# Version: 20-09-2019-a
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklist.txt
 
@@ -18,6 +18,8 @@
 0.0.0.0 adsrvr.org
 0.0.0.0 match.adsrvr.org
 0.0.0.0 zc.adswizz.com
+0.0.0.0 adwired.ch
+0.0.0.0 aerotelegraph.adwired.ch
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 redbutton-adproxy-prod-lb-10634916.eu-west-1.elb.amazonaws.com
@@ -163,6 +165,7 @@
 0.0.0.0 logc279.xiti.com
 0.0.0.0 logs1406.xiti.com
 0.0.0.0 logs1407.xiti.com
+0.0.0.0 piwik.zerotier.com
 
 # Microsoft Win10 Telemetrie according to BSI Germany
 # https://www.bsi.bund.de/DE/Themen/Cyber-Sicherheit/Empfehlungen/SiSyPHuS_Win10/AP4/SiSyPHuS_AP4_node.html
