@@ -1,15 +1,15 @@
 # Title: myPiholeBlacklist Test - urls auf Bewährung
-# Last Modified: 14. Juli 2019
-# Version: 14-07-2019-b
+# Last Modified: 20. September 2019
+# Version: 20-09-2019-a
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklisttest.txt
 
-0.0.0.0 s79.research.de.com
-0.0.0.0 1001.netrk.net
-0.0.0.0 piwik.zerotier.com
-0.0.0.0 device-metrics-us.amazon.com
-0.0.0.0 adwired.ch
-0.0.0.0 aerotelegraph.adwired.ch
+0.0.0.0 xtrapath1.izatcloud.net
+0.0.0.0 xtrapath2.izatcloud.net
+0.0.0.0 xtrapath3.izatcloud.net
+0.0.0.0 api.leanplum.com
+0.0.0.0 incoming.telemetry.mozilla.org
+
 0.0.0.0 counter.lightningmaps.org
 
 0.0.0.0 getpocket.cdn.mozilla.net
