@@ -1,6 +1,6 @@
-# Title: myPiholeBlacklist
-# Last Modified: 20 Sep 2019
-# Version: 20-09-2019-a
+# Title: Kreisklasse Blacklist - Main
+# Last Modified: 05 Oktober 2019
+# Version: 05-10-2019-a
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklist.txt
 
@@ -43,8 +43,6 @@
 0.0.0.0 account.cyanogenmod.org
 0.0.0.0 stats.cyanogenmod.org
 0.0.0.0 decibelinsight.net
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 static.doubleclick.net
 0.0.0.0 tracking.emsmobile.de
 0.0.0.0 ads.exosrv.com
 0.0.0.0 static.exosrv.com
@@ -57,8 +55,6 @@
 0.0.0.0 star.c10r.facebook.com
 0.0.0.0 scontent-frt3-2.xx.fbcdn.net
 0.0.0.0 fullstory.com
-0.0.0.0 adservice.google.com
-0.0.0.0 adservice.google.de
 0.0.0.0 healte.de
 0.0.0.0 hockeyapp.net
 0.0.0.0 gate.hockeyapp.com
