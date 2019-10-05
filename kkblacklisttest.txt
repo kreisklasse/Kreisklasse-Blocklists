@@ -1,6 +1,6 @@
-# Title: myPiholeBlacklist Test - urls auf Bewährung
-# Last Modified: 04. Oktober 2019
-# Version: 04-10-2019-b
+# Title: Kreisklasse Blacklist - Test - urls auf Bewährung
+# Last Modified: 05. Oktober 2019
+# Version: 05-10-2019-a
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklisttest.txt
 
@@ -9,14 +9,9 @@
 0.0.0.0 ads.smartstream.tv
 0.0.0.0 fast.wistia.net
 0.0.0.0 piwik.up.welt.de
-0.0.0.0 xtrapath1.izatcloud.net
-0.0.0.0 xtrapath2.izatcloud.net
-0.0.0.0 xtrapath3.izatcloud.net
 0.0.0.0 api.leanplum.com
 0.0.0.0 incoming.telemetry.mozilla.org
-
 0.0.0.0 counter.lightningmaps.org
-
 0.0.0.0 getpocket.cdn.mozilla.net
 0.0.0.0 detectportal.firefox.com
 0.0.0.0 cmrelay.avm.de
