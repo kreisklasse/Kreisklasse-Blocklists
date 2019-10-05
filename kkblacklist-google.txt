@@ -1,0 +1,13 @@
+# Title: Kreisklasse Blacklist - Google
+# Last Modified: 05 Oktober 2019
+# Version: 05-10-2019-a
+# Licence: Public Domain
+# URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklist-google.txt
+
+0.0.0.0 app-measurement.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.de
