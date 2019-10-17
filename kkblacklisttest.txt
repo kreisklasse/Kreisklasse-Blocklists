@@ -1,9 +1,16 @@
 # Title: Kreisklasse Blacklist - Test - urls auf Bewährung
-# Last Modified: 15. Oktober 2019
-# Version: 15-10-2019-a
+# Last Modified: 17. Oktober 2019
+# Version: 17-10-2019-a
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklisttest.txt
 
+0.0.0.0 ssl--vg03-met-vgwort-de.cdn.ampproject.org
+0.0.0.0 static.cleverpush.com
+0.0.0.0 delivery.content-recommendation.net
+0.0.0.0 static.xx.fbcdn.net
+0.0.0.0 adrise.tv
+0.0.0.0 piwik.bayern.de
+0.0.0.0 www.piwik.bayern.de
 0.0.0.0 piwik.vlh.de
 0.0.0.0 ad.donaukurier.de
 0.0.0.0 beacon.shazam.com
