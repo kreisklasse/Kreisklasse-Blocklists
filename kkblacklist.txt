@@ -1,6 +1,6 @@
 # Title: Kreisklasse Blacklist - Main
-# Last Modified: 05 Oktober 2019
-# Version: 05-10-2019-a
+# Last Modified: 17 Oktober 2019
+# Version: 17-10-2019-a
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklist.txt
 
@@ -134,6 +134,7 @@
 0.0.0.0 cdas-01.trafficfabrik.com
 0.0.0.0 go2.traffic-love.net
 0.0.0.0 hbbtv.tvtelemetrie.de
+0.0.0.0 analytics.twitter.com
 0.0.0.0 use.typekit.net
 0.0.0.0 daisy.ubuntu.com
 0.0.0.0 combine.urbanairship.com
