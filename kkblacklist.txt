@@ -1,6 +1,6 @@
 # Title: Kreisklasse Blacklist - Main
-# Last Modified: 17 Oktober 2019
-# Version: 17-10-2019-a
+# Last Modified: 18 Oktober 2019
+# Version: 18-10-2019-a
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklist.txt
 
@@ -14,6 +14,7 @@
 0.0.0.0 rules3.aatkit.com
 0.0.0.0 graph.accountkit.com
 0.0.0.0 app.adjust.com
+0.0.0.0 adrise.tv
 0.0.0.0 native.adscale.de
 0.0.0.0 adsrvr.org
 0.0.0.0 match.adsrvr.org
@@ -22,12 +23,15 @@
 0.0.0.0 aerotelegraph.adwired.ch
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
+0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 redbutton-adproxy-prod-lb-10634916.eu-west-1.elb.amazonaws.com
 0.0.0.0 api.amplitude.com
 0.0.0.0 app-measurement.com
 0.0.0.0 api.appodealx.com
 0.0.0.0 apptimize.com
 0.0.0.0 hmma.baidu.com
+0.0.0.0 piwik.bayern.de
+0.0.0.0 www.piwik.bayern.de
 0.0.0.0 betrad.com
 0.0.0.0 l.betrad.com
 0.0.0.0 counter.blitzortung.org
@@ -43,6 +47,7 @@
 0.0.0.0 account.cyanogenmod.org
 0.0.0.0 stats.cyanogenmod.org
 0.0.0.0 decibelinsight.net
+0.0.0.0 ad.donaukurier.de
 0.0.0.0 tracking.emsmobile.de
 0.0.0.0 ads.exosrv.com
 0.0.0.0 static.exosrv.com
@@ -54,6 +59,7 @@
 0.0.0.0 star.facebook.com
 0.0.0.0 star.c10r.facebook.com
 0.0.0.0 scontent-frt3-2.xx.fbcdn.net
+0.0.0.0 static.xx.fbcdn.net
 0.0.0.0 fullstory.com
 0.0.0.0 healte.de
 0.0.0.0 hockeyapp.net
@@ -67,6 +73,7 @@
 0.0.0.0 de.ioam.de
 0.0.0.0 scripts.ioam.de
 0.0.0.0 likemore-go.imgsmail.ru
+0.0.0.0 api.leanplum.com
 0.0.0.0 bronline.ivwbox.de
 0.0.0.0 liftoff.io
 0.0.0.0 webhook.logentries.com
@@ -77,11 +84,13 @@
 0.0.0.0 s240.meetrics.net
 0.0.0.0 dc7.s240.meetrics.net
 0.0.0.0 mouseflow.com
+0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 mparticle.com
 0.0.0.0 config2.mparticle.com
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 s240.mxcdn.net
 0.0.0.0 c.nativendo.de
+0.0.0.0 piwik01.netgroup.de
 0.0.0.0 netrk.net
 0.0.0.0 1001.netrk.net
 0.0.0.0 nuggad.net
@@ -121,12 +130,19 @@
 0.0.0.0 www.samsungotn.net
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sessioncam.com
+0.0.0.0 beacon.shazam.com
 0.0.0.0 de.sitestat.com
 0.0.0.0 stats.hbbtv.smartclip.net
 0.0.0.0 smartlook.com
+0.0.0.0 ads.smartstream.tv
 0.0.0.0 msmetrics.ws.sonos.com
 0.0.0.0 count.spiegel.com
 0.0.0.0 infoevent.startappservice.com
+0.0.0.0 stroeerdigitalgroup.de
+0.0.0.0 cdn.stroeerdigitalgroup.de
+0.0.0.0 consent.stroeerdigitalgroup.de
+0.0.0.0 privacy.stroeerdigitalgroup.de
+0.0.0.0 quiz.stroeermediabrands.de
 0.0.0.0 technical-service.net
 0.0.0.0 mobile.theadex.com
 0.0.0.0 q.trafficfabrik.com
@@ -149,6 +165,7 @@
 0.0.0.0 vgwort.de
 0.0.0.0 ssl-offloader.vgwzaehlungen.de
 0.0.0.0 vgwzaehlungen.de
+0.0.0.0 piwik.vlh.de
 0.0.0.0 stats.webandmore.de
 0.0.0.0 wbtrk.net
 0.0.0.0 cdn.wbtrk.net
@@ -158,6 +175,7 @@
 0.0.0.0 piwik.up.welt.de
 0.0.0.0 pixel.welt.de
 0.0.0.0 ns11.whois.co.kr
+0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 wywy.com
 0.0.0.0 logc279.xiti.com
 0.0.0.0 logs1406.xiti.com
