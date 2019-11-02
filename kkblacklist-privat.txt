@@ -1,0 +1,8 @@
+# Title: Kreisklasse Blacklist - Privat - speziell meine Systeme
+# Last Modified: 02. November 2019
+# Version: 02-11-2019-a
+# Licence: Public Domain
+# URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklisttest.txt
+
+0.0.0.0 getpocket.cdn.mozilla.net
+0.0.0.0 cmrelay.avm.de
