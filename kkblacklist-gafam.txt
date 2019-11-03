@@ -1,14 +1,17 @@
 # Title: Kreisklasse Blacklist - GAFAM
 # Google-Amazon-Facebook-Apple-Microsoft
-# Last Modified: 02 November 2019
-# Version: 02-11-2019-c
+# Last Modified: 03 November 2019
+# Version: 03-11-2019-a
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklist-gafam.txt
 
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 mads-eu.amazon.com
+0.0.0.0 aax-eu.amazon-adsystem.com
+0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 redbutton-adproxy-prod-lb-10634916.eu-west-1.elb.amazonaws.com
 
 0.0.0.0 connect.facebook.net
