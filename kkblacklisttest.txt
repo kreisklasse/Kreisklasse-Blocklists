@@ -1,27 +1,20 @@
 # Title: Kreisklasse Blacklist - Test - urls auf Bewährung
 # Last Modified: 03. November 2019
-# Version: 03-11-2019-a
+# Version: 03-11-2019-b
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklisttest.txt
 
+# 03.11.2019
 0.0.0.0 s290.mxcdn.net
+# older
 0.0.0.0 traffective.com
-0.0.0.0 dd-cdn.multiscreensite.com
 0.0.0.0 c.omsnative.de
 0.0.0.0 d.omsnative.de
-0.0.0.0 tracking.m6r.eu
-0.0.0.0 matomo.pnp.de
 0.0.0.0 www.powr.io
-0.0.0.0 stats.datawrapper.de
-0.0.0.0 piwik.labocleo.org
-0.0.0.0 analytics.ext.go-tellm.com
-0.0.0.0 api.branch.io
 0.0.0.0 multiscreensite.com
 0.0.0.0 dd-cdn.multiscreensite.com
 0.0.0.0 apptimize.com
 0.0.0.0 sessions.bugsnag.com
-0.0.0.0 ssl--vg03-met-vgwort-de.cdn.ampproject.org
 0.0.0.0 static.cleverpush.com
 0.0.0.0 delivery.content-recommendation.net
 0.0.0.0 fast.wistia.net
-0.0.0.0 counter.lightningmaps.org
