@@ -1,4 +1,4 @@
-# ad etc blacklist
+# ad spam blacklist for pihole/adguard
 
 ### How:
 
