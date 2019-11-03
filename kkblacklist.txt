@@ -1,6 +1,6 @@
 # Title: Kreisklasse Blacklist - Main
-# Last Modified: 02 November 2019
-# Version: 02-11-2019-c
+# Last Modified: 03 November 2019
+# Version: 03-11-2019-a
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklist.txt
 
@@ -21,7 +21,12 @@
 0.0.0.0 zc.adswizz.com
 0.0.0.0 adwired.ch
 0.0.0.0 aerotelegraph.adwired.ch
+0.0.0.0 adup-tech.com
+0.0.0.0 d.adup-tech.com
+0.0.0.0 m.adup-tech.com
+0.0.0.0 s.d.adup-tech.com
 0.0.0.0 api.amplitude.com
+0.0.0.0 ssl--vg03-met-vgwort-de.cdn.ampproject.org
 0.0.0.0 app-measurement.com
 0.0.0.0 api.appodealx.com
 0.0.0.0 apptimize.com
@@ -31,7 +36,9 @@
 0.0.0.0 betrad.com
 0.0.0.0 l.betrad.com
 0.0.0.0 counter.blitzortung.org
+0.0.0.0 api.branch.io
 0.0.0.0 cdn.branch.io
+0.0.0.0 ping.chartbeat.net
 0.0.0.0 amp-analytics.chip.de
 0.0.0.0 clicktale.net
 0.0.0.0 ws009.coinhive.com
@@ -42,6 +49,7 @@
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 account.cyanogenmod.org
 0.0.0.0 stats.cyanogenmod.org
+0.0.0.0 stats.datawrapper.de
 0.0.0.0 decibelinsight.net
 0.0.0.0 ad.donaukurier.de
 0.0.0.0 tracking.emsmobile.de
@@ -49,6 +57,7 @@
 0.0.0.0 static.exosrv.com
 0.0.0.0 syndication.exosrv.com
 0.0.0.0 fullstory.com
+0.0.0.0 analytics.ext.go-tellm.com
 0.0.0.0 healte.de
 0.0.0.0 hockeyapp.net
 0.0.0.0 gate.hockeyapp.com
@@ -59,14 +68,18 @@
 0.0.0.0 game.internetat.tv
 0.0.0.0 sso.internetat.tv
 0.0.0.0 de.ioam.de
+0.0.0.0 script.ioam.de
 0.0.0.0 scripts.ioam.de
 0.0.0.0 likemore-go.imgsmail.ru
 0.0.0.0 api.leanplum.com
 0.0.0.0 bronline.ivwbox.de
+0.0.0.0 piwik.labocleo.org
 0.0.0.0 liftoff.io
+0.0.0.0 counter.lightningmaps.org
 0.0.0.0 webhook.logentries.com
 0.0.0.0 logrocket.com
 0.0.0.0 tracking.lqm.io
+0.0.0.0 tracking.m6r.eu
 0.0.0.0 matchinguu.com
 0.0.0.0 meetrics.net
 0.0.0.0 s240.meetrics.net
@@ -94,6 +107,7 @@
 0.0.0.0 pixel.playbuzz.com
 0.0.0.0 www.plista.com
 0.0.0.0 static-de.plista.com
+0.0.0.0 matomo.pnp.de
 0.0.0.0 pushwoosh.com
 0.0.0.0 quantummetric.com
 0.0.0.0 api.raygun.io
