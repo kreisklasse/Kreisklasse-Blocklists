@@ -1,6 +1,6 @@
 # Title: Kreisklasse Blacklist - Main
-# Last Modified: 03 November 2019
-# Version: 03-11-2019-b
+# Last Modified: 08 November 2019
+# Version: 08-11-2019-a
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklist.txt
 
@@ -163,10 +163,10 @@
 0.0.0.0 userreplay.net
 0.0.0.0 appsapi.veinteractive.com
 0.0.0.0 cookiee1.veinteractive.com
+0.0.0.0 vgwort.de
 0.0.0.0 ssl-express.met.vgwort.de
 0.0.0.0 ssl-focus.met.vgwort.de
 0.0.0.0 ssl-n-tv.met.vgwort.de
-0.0.0.0 vgwort.de
 0.0.0.0 ssl-offloader.vgwzaehlungen.de
 0.0.0.0 vgwzaehlungen.de
 0.0.0.0 piwik.vlh.de
@@ -181,7 +181,9 @@
 0.0.0.0 ns11.whois.co.kr
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 wywy.com
+0.0.0.0 xiti.com
 0.0.0.0 logc279.xiti.com
 0.0.0.0 logs1406.xiti.com
 0.0.0.0 logs1407.xiti.com
+0.0.0.0 logs1413.xiti.com
 0.0.0.0 piwik.zerotier.com
