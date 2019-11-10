@@ -1,9 +1,15 @@
-# Title: Kreisklasse Blacklist - Privat - speziell meine Systeme
-# Last Modified: 08. November 2019
-# Version: 08-11-2019-a
+# Title: Kreisklasse Blacklist - Privat
+# Last Modified: 10. November 2019
+# Version: 10-11-2019-a
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklist-privat.txt
 
 0.0.0.0 spocs.getpocket.com
 0.0.0.0 getpocket.cdn.mozilla.net
 0.0.0.0 cmrelay.avm.de
+
+# facebook - instagram
+0.0.0.0 www.facebook.com
+0.0.0.0 instagram.fsnc1-1.fna.fbcdn.net
+0.0.0.0 scontent.cdninstagram.com
+0.0.0.0 scontent-frt3-2.cdninstagram.com
