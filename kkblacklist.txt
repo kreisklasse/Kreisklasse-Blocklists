@@ -1,6 +1,6 @@
 # Title: Kreisklasse Blacklist - Main
-# Last Modified: 08 November 2019
-# Version: 08-11-2019-b
+# Last Modified: 10 November 2019
+# Version: 10-11-2019--1700z
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklist.txt
 
@@ -39,6 +39,8 @@
 0.0.0.0 counter.blitzortung.org
 0.0.0.0 api.branch.io
 0.0.0.0 cdn.branch.io
+0.0.0.0 brandwire.tv
+0.0.0.0 ads.brandwire.tv
 0.0.0.0 piwik.cdom.de
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 amp-analytics.chip.de
@@ -69,7 +71,9 @@
 0.0.0.0 inspectlet.com
 0.0.0.0 game.internetat.tv
 0.0.0.0 sso.internetat.tv
+0.0.0.0 ioam.de
 0.0.0.0 de.ioam.de
+0.0.0.0 irqs.ioam.de
 0.0.0.0 script.ioam.de
 0.0.0.0 scripts.ioam.de
 0.0.0.0 likemore-go.imgsmail.ru
