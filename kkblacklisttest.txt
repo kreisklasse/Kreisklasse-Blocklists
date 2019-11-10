@@ -1,9 +1,11 @@
 # Title: Kreisklasse Blacklist - Test - urls auf Bewährung
-# Last Modified: 08. November 2019
-# Version: 08-11-2019--1050z
+# Last Modified: 10. November 2019
+# Version: 10-11-2019--0922z
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklisttest.txt
 
+#10.11.2019
+0.0.0.0 ads.servebom.com
 # 08.11.2019
 0.0.0.0 tracking.br.de
 # 07.11.2019
