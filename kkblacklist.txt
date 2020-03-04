@@ -1,6 +1,6 @@
 # Title: Kreisklasse Blacklist - Main
-# Last Modified: 10 November 2019
-# Version: 10-11-2019--1700z
+# Last Modified: 16 Januar 2020
+# Version: 16-01-2020-a
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklist.txt
 
@@ -12,9 +12,16 @@
 0.0.0.0 rules1.aatkit.com
 0.0.0.0 rules2.aatkit.com
 0.0.0.0 rules3.aatkit.com
+0.0.0.0 try.abtasty.com
 0.0.0.0 graph.accountkit.com
+0.0.0.0 adalliance.io
+0.0.0.0 dmpstorage.adalliance.io
+0.0.0.0 mafo.adalliance.io
+0.0.0.0 optout.adalliance.io
+0.0.0.0 track.addevent.com
 0.0.0.0 app.adjust.com
 0.0.0.0 piwik.adminforge.de
+0.0.0.0 mediation.adnxs.com
 0.0.0.0 adrise.tv
 0.0.0.0 native.adscale.de
 0.0.0.0 adsrvr.org
@@ -26,6 +33,7 @@
 0.0.0.0 d.adup-tech.com
 0.0.0.0 m.adup-tech.com
 0.0.0.0 s.d.adup-tech.com
+0.0.0.0 analytics.airliners.de
 0.0.0.0 api.amplitude.com
 0.0.0.0 ssl--vg03-met-vgwort-de.cdn.ampproject.org
 0.0.0.0 app-measurement.com
@@ -37,29 +45,45 @@
 0.0.0.0 betrad.com
 0.0.0.0 l.betrad.com
 0.0.0.0 counter.blitzortung.org
+0.0.0.0 piwik.bmvg.de
+0.0.0.0 stats.bonn.digital
+0.0.0.0 tracking.br.de
 0.0.0.0 api.branch.io
 0.0.0.0 cdn.branch.io
 0.0.0.0 brandwire.tv
 0.0.0.0 ads.brandwire.tv
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 statistik.bundestag.de
 0.0.0.0 piwik.cdom.de
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 amp-analytics.chip.de
+0.0.0.0 api.cleverpush.com
+0.0.0.0 static.cleverpush.com
 0.0.0.0 clicktale.net
 0.0.0.0 ws009.coinhive.com
 0.0.0.0 ws010.coinhive.com
+0.0.0.0 delivery.content-recommendation.net
+0.0.0.0 counterbox.de
+0.0.0.0 www.counterbox.de
 0.0.0.0 crashlytics.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 reports.crashlytics.com
+0.0.0.0 script.crazyegg.com
+0.0.0.0 bidder.criteo.com
+0.0.0.0 gum.criteo.com
+0.0.0.0 pub-sdk-cfg.criteo.com
 0.0.0.0 account.cyanogenmod.org
 0.0.0.0 stats.cyanogenmod.org
 0.0.0.0 stats.datawrapper.de
 0.0.0.0 decibelinsight.net
 0.0.0.0 ad.donaukurier.de
 0.0.0.0 tracking.emsmobile.de
+0.0.0.0 static.emsservice.de
 0.0.0.0 ads.exosrv.com
 0.0.0.0 static.exosrv.com
 0.0.0.0 syndication.exosrv.com
+0.0.0.0 d.finative.eu
 0.0.0.0 fullstory.com
 0.0.0.0 analytics.ext.go-tellm.com
 0.0.0.0 healte.de
@@ -67,6 +91,7 @@
 0.0.0.0 gate.hockeyapp.com
 0.0.0.0 hotjar.com
 0.0.0.0 tracking.i2w.io
+0.0.0.0 idcdn.de
 0.0.0.0 oem.inmobi.com
 0.0.0.0 inspectlet.com
 0.0.0.0 game.internetat.tv
@@ -76,6 +101,7 @@
 0.0.0.0 irqs.ioam.de
 0.0.0.0 script.ioam.de
 0.0.0.0 scripts.ioam.de
+0.0.0.0 metrics.ionos.de
 0.0.0.0 likemore-go.imgsmail.ru
 0.0.0.0 api.leanplum.com
 0.0.0.0 bronline.ivwbox.de
@@ -84,9 +110,11 @@
 0.0.0.0 counter.lightningmaps.org
 0.0.0.0 webhook.logentries.com
 0.0.0.0 logrocket.com
+0.0.0.0 pp.lp4.io
 0.0.0.0 tracking.lqm.io
 0.0.0.0 tracking.m6r.eu
 0.0.0.0 matchinguu.com
+0.0.0.0 geolite.maxmind.com
 0.0.0.0 meetrics.net
 0.0.0.0 s240.meetrics.net
 0.0.0.0 dc7.s240.meetrics.net
@@ -95,7 +123,11 @@
 0.0.0.0 mparticle.com
 0.0.0.0 config2.mparticle.com
 0.0.0.0 nativesdks.mparticle.com
+0.0.0.0 multiscreensite.com
+0.0.0.0 dd-cdn.multiscreensite.com
 0.0.0.0 s240.mxcdn.net
+0.0.0.0 s290.mxcdn.net
+0.0.0.0 s385.mxcdn.net
 0.0.0.0 c.nativendo.de
 0.0.0.0 piwik01.netgroup.de
 0.0.0.0 netrk.net
@@ -105,15 +137,23 @@
 0.0.0.0 71iapp-cp.nuggad.net
 0.0.0.0 define.nuggad.net
 0.0.0.0 metrics.n-tv.de
-0.0.0.0 logx.optimizely.com 
+0.0.0.0 c.omsnative.de
+0.0.0.0 d.omsnative.de
+0.0.0.0 logx.optimizely.com
+0.0.0.0 odb.outbrain.com
 0.0.0.0 infolink.pavv.co.kr
 0.0.0.0 tvstoregw.pavv.co.kr
+0.0.0.0 analytics.pinpoll.com
 0.0.0.0 www.pizzaandads.com
 0.0.0.0 ads.playbuzz.com
 0.0.0.0 pixel.playbuzz.com
 0.0.0.0 www.plista.com
+0.0.0.0 static.plista.com
 0.0.0.0 static-de.plista.com
 0.0.0.0 matomo.pnp.de
+0.0.0.0 www.powr.io
+0.0.0.0 pad-v3.presage.io
+0.0.0.0 p.presage.io
 0.0.0.0 pushwoosh.com
 0.0.0.0 quantummetric.com
 0.0.0.0 api.raygun.io
@@ -136,8 +176,10 @@
 0.0.0.0 log-config.samsungacr.com
 0.0.0.0 log-ingestion-eu.samsungacr.com
 0.0.0.0 www.samsungotn.net
+0.0.0.0 ced.sascdn.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sessioncam.com
+0.0.0.0 ads.servebom.com
 0.0.0.0 beacon.shazam.com
 0.0.0.0 de.sitestat.com
 0.0.0.0 stats.hbbtv.smartclip.net
@@ -145,6 +187,7 @@
 0.0.0.0 ads.smartstream.tv
 0.0.0.0 msmetrics.ws.sonos.com
 0.0.0.0 count.spiegel.com
+0.0.0.0 count.spiegel.de
 0.0.0.0 infoevent.startappservice.com
 0.0.0.0 stroeerdigitalgroup.de
 0.0.0.0 cdn.stroeerdigitalgroup.de
@@ -152,7 +195,12 @@
 0.0.0.0 privacy.stroeerdigitalgroup.de
 0.0.0.0 quiz.stroeermediabrands.de
 0.0.0.0 technical-service.net
+0.0.0.0 theadex.com
+0.0.0.0 dmp.theadex.com
 0.0.0.0 mobile.theadex.com
+0.0.0.0 tickcounter.com
+0.0.0.0 tipi.stat.t-online.de
+0.0.0.0 traffective.com
 0.0.0.0 q.trafficfabrik.com
 0.0.0.0 deliver.trafficfabrik.com
 0.0.0.0 cdas-01.trafficfabrik.com
@@ -184,10 +232,15 @@
 0.0.0.0 piwik.up.welt.de
 0.0.0.0 pixel.welt.de
 0.0.0.0 ns11.whois.co.kr
-0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 fast.wistia.net
+0.0.0.0 oe-mobil.wwa.wipe.de
+0.0.0.0 wwa.wipe.de
+0.0.0.0 wt-eu02.net
 0.0.0.0 wywy.com
 0.0.0.0 xiti.com
 0.0.0.0 logc279.xiti.com
+0.0.0.0 logc407.xiti.com
+0.0.0.0 logs1211.xiti.com
 0.0.0.0 logs1406.xiti.com
 0.0.0.0 logs1407.xiti.com
 0.0.0.0 logs1413.xiti.com
