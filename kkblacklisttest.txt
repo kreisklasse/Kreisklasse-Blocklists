@@ -1,47 +1,23 @@
 # Title: Kreisklasse Blacklist - Test - urls auf Bewährung
-# Last Modified: 10. November 2019
-# Version: 10-11-2019--1705z
+# Last Modified: 04 March 2020
+# Version: 04-03-2020-a
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklisttest.txt
 
-#10.11.2019
-0.0.0.0 ad.donaukurier.de
-0.0.0.0 ads.servebom.com
-# 08.11.2019
-0.0.0.0 tracking.br.de
-# 07.11.2019
-0.0.0.0 dpm.demdex.net
-0.0.0.0 metrics.ionos.de
-# 06.11.2019
-0.0.0.0 geolite.maxmind.com
-0.0.0.0 adalliance.io
-0.0.0.0 dmpstorage.adalliance.io
-0.0.0.0 mafo.adalliance.io
-0.0.0.0 optout.adalliance.io
-0.0.0.0 ced.sascdn.com
-0.0.0.0 script.crazyegg.com
-0.0.0.0 lookaside.fbsbx.com
-0.0.0.0 de-de.facebook.com
-0.0.0.0 dmp.theadex.com
-0.0.0.0 static.emsservice.de
-# 03.11.2019
-0.0.0.0 s290.mxcdn.net
-0.0.0.0 odb.outbrain.com
-0.0.0.0 mediation.adnxs.com
-0.0.0.0 static-de.plista.com
-0.0.0.0 logs1413.xiti.com
-0.0.0.0 try.abtasty.com
-0.0.0.0 analytics.pinpoll.com
-0.0.0.0 pp.lp4.io
-# older
-0.0.0.0 traffective.com
-0.0.0.0 c.omsnative.de
-0.0.0.0 d.omsnative.de
-0.0.0.0 www.powr.io
-0.0.0.0 multiscreensite.com
-0.0.0.0 dd-cdn.multiscreensite.com
-0.0.0.0 apptimize.com
-0.0.0.0 sessions.bugsnag.com
-0.0.0.0 static.cleverpush.com
-0.0.0.0 delivery.content-recommendation.net
-0.0.0.0 fast.wistia.net
+# 04.03.2020
+0.0.0.0 usercentrics.com
+0.0.0.0 usercentrics.eu
+0.0.0.0 app.usercentrics.eu
+0.0.0.0 stadtbremerhaven.digidip.net
+0.0.0.0 stats-t--online-de.cdn.ampproject.org
+0.0.0.0 tipi.stat.t-online.de
+
+# 04.01.2020
+0.0.0.0 fbc.wcfbc.net
+
+# 14.12.2019
+0.0.0.0 rpxnow.com
+0.0.0.0 secure-eu.imrworldwide.com
+0.0.0.0 uaid.imrworldwide.com
+# 09.12.2019
+0.0.0.0 d.bacontent.de
