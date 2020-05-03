@@ -1,23 +1,20 @@
 # Title: Kreisklasse Blacklist - Test - urls auf Bewährung
-# Last Modified: 04 March 2020
-# Version: 04-03-2020-a
+# Last Modified: 22 March 2020
+# Version: 22-03-2020-a
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklisttest.txt
 
+# 22.03.2020
+0.0.0.0 metrics-logger.spot.im
+
 # 04.03.2020
-0.0.0.0 usercentrics.com
-0.0.0.0 usercentrics.eu
-0.0.0.0 app.usercentrics.eu
 0.0.0.0 stadtbremerhaven.digidip.net
-0.0.0.0 stats-t--online-de.cdn.ampproject.org
-0.0.0.0 tipi.stat.t-online.de
 
 # 04.01.2020
 0.0.0.0 fbc.wcfbc.net
 
 # 14.12.2019
 0.0.0.0 rpxnow.com
-0.0.0.0 secure-eu.imrworldwide.com
-0.0.0.0 uaid.imrworldwide.com
+
 # 09.12.2019
 0.0.0.0 d.bacontent.de
