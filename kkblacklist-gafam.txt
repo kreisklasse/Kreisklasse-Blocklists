@@ -1,10 +1,11 @@
 # Title: Kreisklasse Blacklist - GAFAM
 # Google-Amazon-Facebook-Apple-Microsoft
-# Last Modified: 20 Januar 2020
-# Version: 20-01-2020-a
+# Last Modified: 22 March 2020
+# Version: 22-03-2020-c
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklist-gafam.txt
 
+# Amazon
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 mads-eu.amazon.com
@@ -14,8 +15,10 @@
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 redbutton-adproxy-prod-lb-10634916.eu-west-1.elb.amazonaws.com
 
+# Apple
 0.0.0.0 captive.apple.com
 
+# Facebook
 0.0.0.0 b-api.facebook.com
 0.0.0.0 b-graph.facebook.com
 0.0.0.0 b-www.facebook.com
@@ -29,25 +32,30 @@
 0.0.0.0 pixel.facebook.com
 0.0.0.0 star.facebook.com
 0.0.0.0 star.c10r.facebook.com
-0.0.0.0 instagram.c10r.facebook.com
-0.0.0.0 z-p42-instagram.c10r.facebook.com
+# 0.0.0.0 instagram.c10r.facebook.com
+# 0.0.0.0 z-p42-instagram.c10r.facebook.com
 0.0.0.0 staticxx.facebook.com
 0.0.0.0 z-p3-api.facebook.com
-0.0.0.0 instagram.fsnc1-1.fna.fbcdn.net
 0.0.0.0 z-p3-sonar.fdar1-1.fna.fbcdn.net
 0.0.0.0 scontent.fbeg3-1.fna.fbcdn.net
 0.0.0.0 scontent-frt3-2.xx.fbcdn.net
 0.0.0.0 z-p3-scontent.xx.fbcdn.net
 0.0.0.0 static.xx.fbcdn.net
 0.0.0.0 lookaside.fbsbx.com
-0.0.0.0 scontent.cdninstagram.com
-0.0.0.0 scontent-ams4-1.cdninstagram.com
-0.0.0.0 scontent-amt2-1.cdninstagram.com
-0.0.0.0 scontent-dus1-1.cdninstagram.com
-0.0.0.0 scontent-frt3-1.cdninstagram.com
-0.0.0.0 scontent-frt3-2.cdninstagram.com
-0.0.0.0 scontent-frx5-1.cdninstagram.com
 
+# Instagram
+# 0.0.0.0 instagram.c10r.facebook.com
+# 0.0.0.0 z-p42-instagram.c10r.facebook.com
+# 0.0.0.0 instagram.fsnc1-1.fna.fbcdn.net
+# 0.0.0.0 scontent.cdninstagram.com
+# 0.0.0.0 scontent-ams4-1.cdninstagram.com
+# 0.0.0.0 scontent-amt2-1.cdninstagram.com
+# 0.0.0.0 scontent-dus1-1.cdninstagram.com
+# 0.0.0.0 scontent-frt3-1.cdninstagram.com
+# 0.0.0.0 scontent-frt3-2.cdninstagram.com
+# 0.0.0.0 scontent-frx5-1.cdninstagram.com
+
+# Google
 0.0.0.0 app-measurement.com
 0.0.0.0 doubleclick.net
 0.0.0.0 ad.doubleclick.net
@@ -68,6 +76,7 @@
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.googletagmanager.com
 
+# Microsoft
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 settings-ssl.xboxlive.com
 # Microsoft Win10 Telemetrie according to BSI Germany
