@@ -1,16 +1,19 @@
 # Title: Kreisklasse Blacklist - Privat
-# Last Modified: 23 March 2020
-# Version: 04-03-2020-a
+# Last Modified: 03 May 2020
+# Version: 03-05-2020-a
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklist-privat.txt
 
-0.0.0.0 analytics.boxcryptor.com
 0.0.0.0 hshh.org
 0.0.0.0 www.hshh.org
 0.0.0.0 spocs.getpocket.com
 0.0.0.0 getpocket.cdn.mozilla.net
 0.0.0.0 cmrelay.avm.de
-0.0.0.0 trace.svc.ui.com
+
+0.0.0.0 mi.com
+0.0.0.0 miui.com
+0.0.0.0 mi-img.com
+0.0.0.0 xiaomi.com
 
 # Synology
 0.0.0.0 quickconnect.cn
@@ -25,8 +28,16 @@
 0.0.0.0 sgr.re.cs.quickconnect.to
 0.0.0.0 twr.re.cs.quickconnect.to
 0.0.0.0 usr.re.cs.quickconnect.to
+# 0.0.0.0 autoupdate.synology.com
+# 0.0.0.0 checkip.synology.com
+# 0.0.0.0 checkipv6.synology.com
+# 0.0.0.0 checkport.synology.com
+# 0.0.0.0 payment.synology.com
+# 0.0.0.0 pkgautoupdate.synology.com
+# 0.0.0.0 update.synology.com
+# 0.0.0.0 tw.videodb.synology.com
 
-# facebook - instagram
+# facebook
 0.0.0.0 www.facebook.com
 
 # Sonos
