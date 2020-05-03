@@ -1,6 +1,6 @@
 # Title: Kreisklasse Blacklist - Main
-# Last Modified: 16 Januar 2020
-# Version: 16-01-2020-a
+# Last Modified: 19 April 2020
+# Version: 19-04-2020-a
 # Licence: Public Domain
 # URL: https://codeberg.org/kreisklasse/pihole-blocklists/raw/branch/master/kkblacklist.txt
 
@@ -18,7 +18,10 @@
 0.0.0.0 dmpstorage.adalliance.io
 0.0.0.0 mafo.adalliance.io
 0.0.0.0 optout.adalliance.io
+0.0.0.0 tracking.adalliance.io
 0.0.0.0 track.addevent.com
+0.0.0.0 adform.net
+0.0.0.0 c1.adform.net
 0.0.0.0 app.adjust.com
 0.0.0.0 piwik.adminforge.de
 0.0.0.0 mediation.adnxs.com
@@ -36,6 +39,7 @@
 0.0.0.0 analytics.airliners.de
 0.0.0.0 api.amplitude.com
 0.0.0.0 ssl--vg03-met-vgwort-de.cdn.ampproject.org
+0.0.0.0 stats-t--online-de.cdn.ampproject.org
 0.0.0.0 app-measurement.com
 0.0.0.0 api.appodealx.com
 0.0.0.0 apptimize.com
@@ -47,6 +51,7 @@
 0.0.0.0 counter.blitzortung.org
 0.0.0.0 piwik.bmvg.de
 0.0.0.0 stats.bonn.digital
+0.0.0.0 analytics.boxcryptor.com
 0.0.0.0 tracking.br.de
 0.0.0.0 api.branch.io
 0.0.0.0 cdn.branch.io
@@ -60,8 +65,10 @@
 0.0.0.0 api.cleverpush.com
 0.0.0.0 static.cleverpush.com
 0.0.0.0 clicktale.net
+0.0.0.0 coinhive.com
 0.0.0.0 ws009.coinhive.com
 0.0.0.0 ws010.coinhive.com
+0.0.0.0 analytics.comalatech.io
 0.0.0.0 delivery.content-recommendation.net
 0.0.0.0 counterbox.de
 0.0.0.0 www.counterbox.de
@@ -92,11 +99,15 @@
 0.0.0.0 hotjar.com
 0.0.0.0 tracking.i2w.io
 0.0.0.0 idcdn.de
+0.0.0.0 imrworldwide.com
+0.0.0.0 secure-eu.imrworldwide.com
+0.0.0.0 uaid.imrworldwide.com
 0.0.0.0 oem.inmobi.com
 0.0.0.0 inspectlet.com
 0.0.0.0 game.internetat.tv
 0.0.0.0 sso.internetat.tv
 0.0.0.0 ioam.de
+0.0.0.0 config.ioam.de
 0.0.0.0 de.ioam.de
 0.0.0.0 irqs.ioam.de
 0.0.0.0 script.ioam.de
@@ -104,6 +115,7 @@
 0.0.0.0 metrics.ionos.de
 0.0.0.0 likemore-go.imgsmail.ru
 0.0.0.0 api.leanplum.com
+0.0.0.0 ivwbox.de
 0.0.0.0 bronline.ivwbox.de
 0.0.0.0 piwik.labocleo.org
 0.0.0.0 liftoff.io
@@ -125,6 +137,8 @@
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 multiscreensite.com
 0.0.0.0 dd-cdn.multiscreensite.com
+0.0.0.0 mxcdn.net
+0.0.0.0 s79.mxcdn.net
 0.0.0.0 s240.mxcdn.net
 0.0.0.0 s290.mxcdn.net
 0.0.0.0 s385.mxcdn.net
@@ -147,6 +161,7 @@
 0.0.0.0 www.pizzaandads.com
 0.0.0.0 ads.playbuzz.com
 0.0.0.0 pixel.playbuzz.com
+0.0.0.0 plista.com
 0.0.0.0 www.plista.com
 0.0.0.0 static.plista.com
 0.0.0.0 static-de.plista.com
@@ -201,6 +216,7 @@
 0.0.0.0 tickcounter.com
 0.0.0.0 tipi.stat.t-online.de
 0.0.0.0 traffective.com
+0.0.0.0 trafficfabrik.com
 0.0.0.0 q.trafficfabrik.com
 0.0.0.0 deliver.trafficfabrik.com
 0.0.0.0 cdas-01.trafficfabrik.com
@@ -213,6 +229,9 @@
 0.0.0.0 combine.urbanairship.com
 0.0.0.0 device-api.urbanairship.com
 0.0.0.0 remote-data.urbanairship.com
+0.0.0.0 usercentrics.com
+0.0.0.0 usercentrics.eu
+0.0.0.0 app.usercentrics.eu
 0.0.0.0 userreplay.net
 0.0.0.0 appsapi.veinteractive.com
 0.0.0.0 cookiee1.veinteractive.com
@@ -220,6 +239,7 @@
 0.0.0.0 ssl-express.met.vgwort.de
 0.0.0.0 ssl-focus.met.vgwort.de
 0.0.0.0 ssl-n-tv.met.vgwort.de
+0.0.0.0 ssl-spiegel.met.vgwort.de
 0.0.0.0 ssl-offloader.vgwzaehlungen.de
 0.0.0.0 vgwzaehlungen.de
 0.0.0.0 piwik.vlh.de
