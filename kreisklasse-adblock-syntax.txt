@@ -1,0 +1,34 @@
+# Title: Kreisklasse - AdBlock Syntax
+# Last Modified: 14 Juni 2020
+# Version: 14-06-2020-c
+# Licence: CC0 - https://creativecommons.org/share-your-work/public-domain/cc0/
+# URL: https://codeberg.org/kreisklasse/adblock/raw/branch/master/kreisklasse-adblock-syntax.txt
+
+||adalliance.io^
+||app-measurement.com^
+||crashlytics.com^
+||doubleclick.net^
+||facebook.com^
+||fbcdn.net^
+||giphy.com^
+||giphyscripts.s3.amazonaws.com^
+||giphy.map.fastly.net^
+# limited-prod.giphy.map.fastly.net^
+||google-analytics.com^
+||hshh.org^
+||ioam.de^
+||quickconnect.cn^
+||quickconnect.to^
+||bigdata.ssp.samsung.com^
+||urbanairship.com^
+||vgwort.de^
+||xplosion.de^
+
+# https://www.privacy-handbuch.de/handbuch_21g.htm
+||localhost^$important,third-party
+||127.0.*^$important,third-party
+||[::1]^$important,third-party
+||192.168.*^$important,third-party
+||fritz.box^$important,third-party
+||*.fritz.box^$important,third-party
+#
