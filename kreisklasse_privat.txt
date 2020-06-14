@@ -1,0 +1,62 @@
+# Title: Kreisklasse - Privat
+# Last Modified: 06 Juni 2020
+# Version: 14-06-2020-c
+# Licence: CC0 - https://creativecommons.org/share-your-work/public-domain/cc0/
+# URL: https://codeberg.org/kreisklasse/adblock/raw/branch/master/kreisklasse_privat.txt
+
+
+0.0.0.0 spocs.getpocket.com
+0.0.0.0 getpocket.cdn.mozilla.net
+0.0.0.0 cmrelay.avm.de
+
+0.0.0.0 mi.com
+0.0.0.0 miui.com
+0.0.0.0 mi-img.com
+0.0.0.0 xiaomi.com
+
+# Reolink Cam
+0.0.0.0 api.reolink.com
+0.0.0.0 apis.reolink.com
+0.0.0.0 cdn.reolink.com
+0.0.0.0 pushx.reolink.com
+0.0.0.0 p2p.reolink.com
+0.0.0.0 p2pm-abr.reolink.com
+0.0.0.0 p2ptest1.reolink.com
+0.0.0.0 p2p1.reolink.com
+0.0.0.0 p2p2.reolink.com
+0.0.0.0 p2p3.reolink.com
+0.0.0.0 p2p4.reolink.com
+0.0.0.0 p2p5.reolink.com
+0.0.0.0 p2p6.reolink.com
+0.0.0.0 p2p7.reolink.com
+0.0.0.0 p2p8.reolink.com
+0.0.0.0 p2p9.reolink.com
+0.0.0.0 p2p10.reolink.com
+0.0.0.0 p2p11.reolink.com
+0.0.0.0 p2p12.reolink.com
+0.0.0.0 p2p13.reolink.com
+0.0.0.0 p2p14.reolink.com
+0.0.0.0 p2p15.reolink.com
+0.0.0.0 p2p16.reolink.com
+
+# Synology - blocked urls in Kreisklasse - AdBlock Syntax
+# 0.0.0.0 autoupdate.synology.com
+# 0.0.0.0 checkip.synology.com
+# 0.0.0.0 checkipv6.synology.com
+# 0.0.0.0 checkport.synology.com
+# 0.0.0.0 payment.synology.com
+# 0.0.0.0 pkgautoupdate.synology.com
+# 0.0.0.0 update.synology.com
+# 0.0.0.0 tw.videodb.synology.com
+
+# Sonos
+# 0.0.0.0 lechmere-v1.sslauth.sonos.com
+# 0.0.0.0 account.ws.sonos.com
+# 0.0.0.0 dcapps.ws.sonos.com
+0.0.0.0 msmetrics.ws.sonos.com
+# 0.0.0.0 service-catalog.ws.sonos.com
+# 0.0.0.0 voiceconfig.ws.sonos.com
+# 0.0.0.0 music-accounts.sslauth.sonos.com
+# 0.0.0.0 update.sonos.com
+# 0.0.0.0 update-firmware.sonos.com
+# 0.0.0.0 update-timezone.sonos.com
