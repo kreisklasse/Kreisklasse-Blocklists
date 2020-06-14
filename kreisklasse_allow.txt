@@ -1,0 +1,12 @@
+# Title: Kreisklasse AllowList - AdBlock Syntax
+# Last Modified: 14 Juni 2020
+# Version: 14-06-2020-a
+# Licence: Public Domain
+# URL: https://codeberg.org/kreisklasse/adblock/raw/branch/master/kreisklasse_allow.txt
+
+@@||imap.1und1.de^$important
+@@||github.com^$important
+@@||redirector.gvt1.com^$important
+@@||r3---sn-oxujvavbox-jbol.gvt1.com^$important
+@@||r5---sn-oxujvavbox-jbol.gvt1.com^$important
+@@||twitter.com^$important
